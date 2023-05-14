@@ -29,8 +29,8 @@ git config --global user.email 'kyh9827@lscompany.co.kr'
 git remote add origin https://github.com/LS-Des/tourpass.git
 ```
 
-- 자사사이트(원격저장소이름: origin)
+- 자사사이트(원격저장소이름: 미정)
 
 ```
-git remote add origin https://github.com/LS-Des/tourpass.git
+git remote add 미정 https://github.com/LS-Des/lscompany.git
 ```
