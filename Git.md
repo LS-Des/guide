@@ -1,5 +1,7 @@
 ## 초기세팅
+
 ### 1. git 설치하기 [다운로드사이트](https://git-scm.com)
+
 
 ### 2. vs code에 계정 등록하기
 - 사용자 이름 등록
@@ -13,6 +15,7 @@ git config --global user.name 'Ls-Des'
 ```
 git config --global user.email 'kyh9827@lscompany.co.kr'
 ```
+
 
 ### 3. 레파지토리 추가하기
 
