@@ -2,26 +2,36 @@
 
 <br>
 
-### 1. git 설치하기 [다운로드사이트](https://git-scm.com)
+### 1. Git 설치하기 [다운로드사이트](https://git-scm.com)
 
 <br>
 
-### 2. vs code에 계정 등록하기
+### 2. Git 저장소 만들기
 
-- 사용자 이름 등록
+새로운 프로젝트를 시작할 때 Git 저장소를 새로 만드는 명령어
+
+```
+git init
+```
+
+<br>
+
+### 3. vs code에 계정 등록하기
+
+- 사용자 이름
 
 ```
 git config --global user.name 'Ls-Des'
 ```
 
-- 사용자 이메일 등록
+- 사용자 이메일
 
 ```
 git config --global user.email 'kyh9827@lscompany.co.kr'
 ```
 <br>
 
-### 3. 레파지토리 추가하기
+### 4. 레파지토리 추가하기
 
 - 투어패스몰(원격저장소이름: origin)
 
